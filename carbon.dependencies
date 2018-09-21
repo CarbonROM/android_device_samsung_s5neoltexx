@@ -1,0 +1,20 @@
+[
+    {
+        "remote" : "carbon",
+        "repository": "CarbonROM/android_device_samsung_exynos7580-common",
+        "target_path": "device/samsung/exynos7580-common",
+        "revision": "cr-6.1"
+    },
+    {
+        "remote" : "gh",
+        "repository": "Exynos7580/android_kernel_samsung_exynos7580-common",
+        "target_path": "kernel/samsung/exynos7580-common",
+        "revision": "lineage-15.1"
+    },
+    {
+        "remote" : "gh",
+        "repository": "Exynos7580/android_external_protobuf-compat-2.6",
+        "target_path": "external/protobuf-compat-2.6",
+        "revision": "lineage-15.1"
+    }
+]
